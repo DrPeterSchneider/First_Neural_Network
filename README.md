@@ -24,4 +24,4 @@ my_answers.py: file for python class with attributes and methods to create the n
 The neural network works well when then the data it was trained on is sufficient. If the data is sparse the prediction becomes unusable.
 # Licensing, Authors, Acknowledgements
 
-This repository is licensed under the MIT-License. Big thanks to udacity https://www.kaggle.com/zynicide/wine-reviews for scraping, providing  and maintaing the dataset.
+This repository is licensed under the MIT-License. Big thanks to udacity for providing the data and the code to start.
